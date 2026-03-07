@@ -13,4 +13,4 @@
 
 
 # Scientific data types
-1. [METADATA](METADATA.md)
+1. [METADATA-XML](METADATA.md)

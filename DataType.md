@@ -12,5 +12,4 @@
 
 
 # Scientific data types
-## General Type
-1. Datacube or array classes
+1. [METADATA](METADATA.md)

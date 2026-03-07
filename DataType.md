@@ -1,3 +1,4 @@
+[Home](Readme.md)
 # Glossario
 1. Dati:
    - possono essere tavole. immagini, streaming vectors. Possono essere rappresentati come numeri, percentuali, valori di pixel, lettere, stringhe, probabilità e qualsiasi entità che da informazioni

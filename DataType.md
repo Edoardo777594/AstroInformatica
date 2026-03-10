@@ -12,7 +12,22 @@
     - l'insieme del dataset e dei target
 
 
-# Scientific data types
+# Data type
 1. [METADATA-XML](METADATA.md)
 2. [Fits](Fits.md)
 3. [CSV](CSV.md)
+4. [ACII](ASCII.md)
+5. [Datacube](Datacube.md)
+6. [Astrophysical XML](Astrophysical_XML.md)
+7. [Json](Json.md)
+8. [Parquet](Parquet.md)
+9. [HDF](HDF.md)
+10. [Pickle](Pickle.md)
+
+# Programmi Utili
+1. [TopCat]()
+2. [SAODS9]()
+
+# Comparazione tra data type
+
+# Il princio FAIR

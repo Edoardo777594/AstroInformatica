@@ -14,3 +14,4 @@
 
 # Scientific data types
 1. [METADATA-XML](METADATA.md)
+2. [Fits](Fits.md)

@@ -25,8 +25,8 @@
 10. [Pickle](Pickle.md)
 
 # Programmi Utili
-1. [TopCat]()
-2. [SAODS9]()
+1. [TopCat](TopCat.md)
+2. [SAODS9](https://sites.google.com/cfa.harvard.edu/saoimageds9)
 
 # Comparazione tra data type
 

@@ -9,3 +9,6 @@ I file FITS, possono contenere più di un immagine come mostrato in figura
 ![Corpo FITS](image/fits_body.png)
 
 Ma oltre alle immagini possono contenere anche altri tipi di dati, come catologhi, serie temporali ecc..
+
+## Strumenti utili
+Il software più utilizzato per la gestione di immagini FITS è [SAODS9](https://sites.google.com/cfa.harvard.edu/saoimageds9), ma è possibile maneggiarli utilizzando anche python tramite la libreria [Astropy](https://www.astropy.org/)
